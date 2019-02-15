@@ -1,0 +1,16 @@
+{
+    "name": "henry/comtest",
+    "description": "this is a composer proejct test.",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^2.0@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "henrysun",
+            "email": "henrysun@kuainiugroup.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
